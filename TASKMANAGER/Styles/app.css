@@ -1,0 +1,30 @@
+main{
+    display: flex;
+}
+#list{
+    flex: 2;
+}
+
+#details{
+    flex:1;
+}
+.icon-important{
+    font-size: 32px;
+}
+
+
+
+/*#list{
+    display: inline-block;
+    width: 50%;
+    background-color: red;
+    vertical-align: top;
+
+}
+#details{
+    display: inline-block;
+    width: 49%;
+    background-color: forestgreen;
+    vertical-align: top;
+
+}*/
